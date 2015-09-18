@@ -23,7 +23,6 @@ def too_many_kittens(kittens, litterboxes, catfood):
 
         >>>too_many_kittens(12, 12, 11)
         False
-        
         >>>too_many_kittens(2, 2, 0)
         True
     """
