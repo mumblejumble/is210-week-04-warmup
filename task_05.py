@@ -4,8 +4,7 @@
 
 
 def defaults(my_required, my_optional=True):
-    """
-    True or False.
+    """True or False.
 
     compares if they are identical.
 
